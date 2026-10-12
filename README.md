@@ -59,8 +59,9 @@ Explore my other software builds, retro hardware projects, and web experiments o
 
 ## 📥 Installation
 
-1. Head over to the **Releases** tab to download the APK for either **v1** or **v2** (or both!).
-2. Enable installation from unknown sources, install, and enjoy streaming! 🍿🎉
+1. Head over to the **[Releases Tab](https://github.com/techsavvyguy456/TSYT-Lite-Apps/releases)** to download the APK for either **v1** or **v2** (or both!).
+2. Enable installation from unknown sources, install the APKs, and enjoy streaming! 🍿🎉
+
 
 ---
 
