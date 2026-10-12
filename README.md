@@ -50,10 +50,10 @@ Both versions are digitally signed using a private custom keystore (`.p12` / `.j
 
 ## 🌐 Developer & Portfolio
 
-Developed and maintained by **Tech Savvy Guy**! 🛠️💻
+Developed and maintained by **TECHSAVVY YT**! 🛠️💻
 
 Explore my other software builds, retro hardware projects, and web experiments on my portfolio:  
-👉 **[Tech Savvy Guy's Digital Hub](https://techsavvyguy456.neocities.org)**
+👉 **[TECHSAVVY YT's Digital Hub](https://techsavvyguy456.neocities.org)**
 
 ---
 
